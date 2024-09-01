@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-=======
-<!doctype html>
-<html>
+import './index2.css'
+import './global.css'
+export default function Landing() {
+  return (
+    <>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, width=device-width" />
@@ -133,6 +134,7 @@
       </div>
     </div>
   </body>
-</html>
+    </>
+  )
+}
 
->>>>>>> Incoming
