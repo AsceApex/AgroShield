@@ -104,8 +104,9 @@ export default function Landing() {
                   <div class="frame-parent1">
                     <div class="terms-wrapper-parent">
                       <div class="terms-wrapper">
+                      
                         <img
-                          class="terms-content-icon"
+                          
                           loading="lazy"
                           alt=""
                           src="./public/frame.svg"
@@ -113,7 +114,7 @@ export default function Landing() {
                       </div>
                       <div class="placeholder1">Remember me</div>
                     </div>
-                    <div class="placeholder2">Forget Password?</div>
+                    <a href='index2.html'  class="placeholder2">Forget password?</a>
                   </div>
                 </div>
                 <button class="rectangle-container">
